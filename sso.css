@@ -1,0 +1,18 @@
+.checkin_btn {
+    background-color: #3666b4;
+    border: none;
+    color: white;
+    padding: 2px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.checkin_btn img {
+    width: 10px;
+    padding-right: 6px;
+}
+
+a.checkin_btn:hover {
+    color: #FFF;
+}
