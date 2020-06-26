@@ -41,7 +41,7 @@
     }
   ],
   "dependencies": {
-    "jsrsasign": "^5.0.7"
+    "jsrsasign": "^8.0.20"
   },
   "deprecated": false,
   "description": "OpenID Connect (OIDC) & OAuth2 client library",
