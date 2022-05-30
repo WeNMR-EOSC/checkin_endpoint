@@ -2,6 +2,13 @@
 
 EGI Check-in JavaScript code for CSB HADDOCK 2.2.
 
+##
+
+```
+npm install --prefix js/ jquery
+npm install --prefix js/ jsrsasign
+```
+
 ## Installation
 
 * Clone this repository to a public url.
