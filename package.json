@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "jquery": "^3.6.0",
-    "jsrsasign": "^10.5.25",
+    "jsrsasign": "^11.0.0",
     "oidc-client": "^1.11.5"
   }
 }
